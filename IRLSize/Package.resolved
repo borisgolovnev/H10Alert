@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "orchard",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/detroit-labs/Orchard",
+      "state" : {
+        "revision" : "96c5d1ee7b74a36af3d35c86debce2744d76c571",
+        "version" : "1.13.0"
+      }
+    }
+  ],
+  "version" : 2
+}
