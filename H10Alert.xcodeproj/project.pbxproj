@@ -14,6 +14,7 @@
 
 /* Begin PBXFileReference section */
 		BD1E89C33063ECBC00C33694 /* H10Alert.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = H10Alert.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD1E8AA130652C2000C33694 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -54,6 +55,7 @@
 		BD1E89BA3063ECBC00C33694 = {
 			isa = PBXGroup;
 			children = (
+				BD1E8AA130652C2000C33694 /* README.md */,
 				BD1E89C53063ECBC00C33694 /* H10Alert */,
 				BD1E8A783063FDFD00C33694 /* Frameworks */,
 				BD1E89C43063ECBC00C33694 /* Products */,
